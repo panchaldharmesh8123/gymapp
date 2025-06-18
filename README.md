@@ -45,11 +45,7 @@
 This project is basically about me learning about react routing, reuseable component, props, hooks, react best practices, CSS Variables and many more i hope you also find it interesting, and if you do don't forget to give this repo a star
 
 Thanks! if you feel there's anything that can be done to improve the project kindly reach out to me below,
-to see the project [click me](https://eniola-gym-portfolio.vercel.app/)
 
-<!-- CONTACT -->
-## Contact
 
-Eniola Ademola - [@tweet me](https://twitter.com/_daveworld) - it.eniolaademola@gmail.com
 
-Github Repo: [EniolaAdemola/GymPortfolio](https://github.com/EniolaAdemola/gym-portfolio)
+
